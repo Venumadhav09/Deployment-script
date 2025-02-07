@@ -10,7 +10,7 @@ ls -l
 ./k8s-master.sh
 
 
-################# IN the nodes ###############################
+################# IN the nodes #################################
 sudo su (if not done)
  wget https://raw.githubusercontent.com/akshu20791/Deployment-script/main/k8s-nodes.sh
 ls
